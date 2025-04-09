@@ -1,4 +1,4 @@
-## Hi! I'm Paulo
+## Hi, I'm Paulo
 
 - 🇲🇽 I'm a student at the University of Toronto from Mexico
 - 🤖 I work on an AI model, FridaGPT, @ Softtek
