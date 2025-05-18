@@ -1,6 +1,14 @@
 ## Hi, I'm Paulo
+```python
+class Paulo:
+    def __init__(self):
+        self.age = 18
+        self.based_in = "Toronto"
+        self.majors = ["Physics", "Math"]
+        self.interests = ["ML", "Systems Progamming", "Backend"]
+        self.hobbies = ["Piano, Tennis, Fountain Pens"]
+```
 
-- 🇲🇽 I'm a student at the University of Toronto from Mexico
-- 🤖 I tinker with things, @ Softtek
-- ⚙️ I want to one day build my own Unix-based OS
-- ❤️ I'm passionate about ML, golang, [NeoVim](https://neovim.io), piano and fountain pens
+Hi I am an aspiring ML engineer currently at UofT majoring in Physica + Math. I tinker with
+things, @ Softtek and am looking to grow my experience as much as possible! I make mean teas
+and coffees too.
