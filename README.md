@@ -9,7 +9,7 @@ class Paulo:
         self.hobbies = ["Piano, Tennis, Fountain Pens"]
 ```
 
-Hi I am an aspiring software engineer currently at UofT majoring in Physica + Math. I tinker with
+I am an aspiring software engineer currently at UofT majoring in Physica + Math. I tinker with
 things, @ Softtek yet still looking to grow my experience as much as possible! I'm interested in ML
 and I'm independently exploring how it could deepen our understanding of chaotic systems.
 
