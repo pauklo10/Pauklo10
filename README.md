@@ -8,9 +8,7 @@ class Paulo:
         self.hobbies = ["Piano, Tennis, Fountain Pens"]
 ```
 
-I am an aspiring software engineer currently at UofT majoring in Physica + Math. I tinker with
-things, @ Softtek yet still looking to grow my experience as much as possible! I'm interested in ML
-and I'm independently exploring how it could deepen our understanding of chaotic systems.
+Director of dynamic interpolation for comprehensive media distribution and analysis as it applies to heuristic community building and efficient workplace design practices through the open ambiguity foundation. Former head of technical minutiae at the global foundation of situational systematic dependence and programmatic regression analysis. Lead team lead at corpcorp.
 
 I make mean teas
 and coffees too.
