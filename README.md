@@ -7,5 +7,4 @@ class Paulo:
         self.major = "Math"
         self.hobbies = ["Piano, Tennis, Fountain Pens"]
 ```
-
 I make a mean espresso too.
