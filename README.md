@@ -4,7 +4,7 @@ class Paulo:
     def __init__(self):
         self.age = 18
         self.based_in = "Toronto"
-        self.majors = ["Physics", "Math"]
+        self.majors = "Math"
         self.interests = ["ML", "Systems Progamming", "Backend"]
         self.hobbies = ["Piano, Tennis, Fountain Pens"]
 ```
