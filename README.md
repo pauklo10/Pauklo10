@@ -1,13 +1,13 @@
 ```bash
 > whoami
 Paulo Palacios — backend & systems dev  
-Toronto / Ensenada / Online
+Toronto / Dallas / Ensenada
 
 > skills --list
-C, Go, Zig, Python, Chaos Theory, AI, OS internals
+C, Python, Chaos Theory, AI
 
 > now
-Intern @ Softtek | Building: Code Guard, Clerq, Snitch
+Student @ UofT | Intern @ Softtek | Building: Code Guard, snitch
 
 > next
-🎯 Create: Opaul OS | 🧪 Chaos benchmark for AI
+Create: Opaul OS | Chaos benchmark for AI
