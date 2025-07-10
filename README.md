@@ -1,13 +1,4 @@
-```yaml
-location: Toronto / Ensenada
-current: Intern @ Softtek
-stacks: [C, Go, Zig, Python]
-focus:
-  - Chaos in ML
-  - Memory allocators
-  - Custom OS
-
-projects:
-  - Code Guard
-  - Snitch
-  - Butter ML
+Student @ UofT | Intern @ Softtek
+C++ · Python · Zig · Go
+- designing `snitch` (local digital footprint tool)  
+- sketching ideas for `opaul` (a Zig kernel)
