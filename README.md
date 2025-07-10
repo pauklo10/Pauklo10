@@ -1,13 +1,8 @@
-```bash
-> whoami
-Paulo Palacios — backend & systems dev  
-Toronto / Dallas / Ensenada
+I build things worth keeping.
 
-> skills --list
-C, Python, Chaos Theory, AI
+→ CS + Math  
+→ C, Zig, Go, Python  
+→ AI, chaos theory, backend  
 
-> now
-Student @ UofT | Intern @ Softtek | Building: Code Guard, snitch
-
-> next
-Create: Opaul OS | Chaos benchmark for AI
+📍 Toronto / Ensenada  
+🛠️ Code Guard · Snitch · Butter ML
