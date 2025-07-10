@@ -1,8 +1,13 @@
-I build things worth keeping.
+```yaml
+location: Toronto / Ensenada
+current: Intern @ Softtek
+stacks: [C, Go, Zig, Python]
+focus:
+  - Chaos in ML
+  - Memory allocators
+  - Custom OS
 
-→ CS + Math  
-→ C, Zig, Go, Python  
-→ AI, chaos theory, backend  
-
-📍 Toronto / Ensenada  
-🛠️ Code Guard · Snitch · Butter ML
+projects:
+  - Code Guard
+  - Snitch
+  - Butter ML
