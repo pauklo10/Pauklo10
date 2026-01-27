@@ -1,3 +1,2 @@
 ```bash
-Student @ UofT | Intern @ Softtek
-C++ · Python · Zig · Go
+Student @ UofT | Intern @ Softtek | Research @ UTAT
