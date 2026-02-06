@@ -1,2 +1,2 @@
 ```bash
-student @ UofT | intern @ Softtek | research @ UTAT
+student @ UofT | intern @ Softtek | research
